@@ -6,7 +6,7 @@
 
 int main()
 {
-    std::ifstream fileToParse("ExternalTextToParse.txt"); 
+    std::ifstream fileToParse("externalTextToParse.txt"); 
     if (!fileToParse.is_open()) 
     {
         std::cerr << "Error opening file!\n";
