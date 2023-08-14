@@ -3,6 +3,7 @@
 - Скачиваем репозиторий:
 ```
 git clone https://github.com/DmitryKrizhik/WordCounter
+cd WordCounter
 ```
 - Для запуска программы с подсчётом слов в уже созданном текстовом файле:
 ```
